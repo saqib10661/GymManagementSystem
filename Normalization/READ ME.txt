@@ -1,0 +1,4 @@
+Description of the folder
+All folders contain information for the normalization of the database. 
+Each folder has information for before and after normalization, 
+and each folder has a document with a description of the particular normalization.
