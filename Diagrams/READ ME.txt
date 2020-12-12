@@ -1,0 +1,12 @@
+Chen folder
+It contains work files for the ERD of the project, using the Chen model and export of the end results from the diagram in format PDF AND JPEG.
+End result is included in the report.
+
+Crow folder
+The diagram is not included in the report. 
+It is used just for understanding and developing easily, 
+while working process.
+
+ERD folder
+It contains a preview of the ER model from SQL  developer.
+The model is from after the implementation of the database.
