@@ -1,0 +1,24 @@
+Folders description
+
+00_Set_database
+It contains scripts with setting updates of date and time for the session.
+
+01_Create_tables_and_primary_keys
+Contains script of creating all primary key and all tables for the database.
+
+02_Create_foreign_keys
+Contains script of creating all foreign key.
+
+03_Create_check_restrictions
+Contains script of creating all checks for attributes;
+
+04_Data_insert
+It contains scrips with valid values for all the tests.
+
+05_Tests
+Contains results of all test that have checked, and some testing of not valid values.
+Each folder has a test for a particular table. 
+Folder name responds to the table name.
+
+06_Queries
+Contains scripts of the queries and result of quaries.

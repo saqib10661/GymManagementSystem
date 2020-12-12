@@ -1,0 +1,7 @@
+--Set data format
+ALTER SESSION SET NLS_DATE_FORMAT = 'DD/MM/YYYY';
+--SELECT SYSDATE FROM dual;
+
+--Set timestamp format
+ALTER SESSION SET NLS_TIMESTAMP_FORMAT='DD/MM/YYYY HH24:MI:SS';
+--SELECT systimestamp FROM dual;
